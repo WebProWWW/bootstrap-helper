@@ -3,7 +3,7 @@
 
 const conf = {
   opt: {
-    header: '/*\n * @author Timur Valiyev\n * @link https://webprowww.github.io\n */\n\n',
+    header: '/*\n * Bootstrap Helper v1.0.1\n * @author Timur Valiyev\n * @link https://webprowww.github.io\n */\n\n',
     stylus: { compress: true },
     prefixer: { browsers:['last 2 versions'], cascade:false },
     livereload: { basePath: './public_html/' },
